@@ -1,0 +1,8 @@
+{
+  "type": "sqlite",
+  "database": "db/database.db",
+  "entities": ["models.js"], 
+  "logging": false,
+  "synchronize": true
+}
+
